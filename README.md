@@ -1,0 +1,1 @@
+This is a project made as practice on boot.dev. It is not neant for production and should only be used for illustrative purposes.
